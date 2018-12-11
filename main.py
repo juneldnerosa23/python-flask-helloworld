@@ -6,7 +6,7 @@ def hello_world():
   return 'Hey its Python Flask application!'
 
 @app.route('/test')
-def hello_world():
+def hello_world2():
   return 'Hey its Python Flask application Test!'
 
 if __name__ == '__main__':
